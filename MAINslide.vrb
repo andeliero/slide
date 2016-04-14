@@ -1,0 +1,9 @@
+\frametitle{Suggerimenti (III)}
+\begin{itemize}
+\item Se il titolo è troppo lungo rischia di non essere perfettamente inserito a fondo diapositiva, perciò si può utilizzare il \highlight{titolo corto}; ad esempio:
+\begin{verbatim}
+\title[Titolo corto]{Titolo lungo}
+\end{verbatim}
+In questo modo il titolo lungo viene soltanto inserito nel frontespizio.
+\item In caso si abbiano più di due relatori o correlatori, suggerisco di inserirli con i comandi riportati in slide \ref{secondrel} separati da una virgola.
+\end{itemize}
